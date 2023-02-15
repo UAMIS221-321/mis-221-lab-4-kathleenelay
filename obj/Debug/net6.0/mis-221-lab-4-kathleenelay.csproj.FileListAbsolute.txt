@@ -1,0 +1,15 @@
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.csproj.AssemblyReference.cache
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.AssemblyInfoInputs.cache
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.AssemblyInfo.cs
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\bin\Debug\net6.0\mis-221-lab-4-kathleenelay.exe
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\bin\Debug\net6.0\mis-221-lab-4-kathleenelay.deps.json
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\bin\Debug\net6.0\mis-221-lab-4-kathleenelay.runtimeconfig.json
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\bin\Debug\net6.0\mis-221-lab-4-kathleenelay.dll
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\bin\Debug\net6.0\mis-221-lab-4-kathleenelay.pdb
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.dll
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\refint\mis-221-lab-4-kathleenelay.dll
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.pdb
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\mis-221-lab-4-kathleenelay.genruntimeconfig.cache
+C:\Users\Kate\Documents\Source\repos\mis-221-lab-4-kathleenelay\obj\Debug\net6.0\ref\mis-221-lab-4-kathleenelay.dll
